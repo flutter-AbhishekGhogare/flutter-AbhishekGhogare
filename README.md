@@ -1,55 +1,73 @@
-# 👋 Hi, I'm Abhishek Ghogare
+<!-- GitHub Profile README -->
 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-🎓 I'm a graduate in Electronics and Telecommunication Engineering from Savitribai Phule Pune University.  
-📱 I’m actively developing cross-platform mobile apps using **Flutter**.  
-💼 Currently working as a Trainee Engineer at **Eidiko**, where I work on enterprise integration and digital workflow solutions.  
-🔧 I’m also working with **IBM App Connect Enterprise (ACE/IIB)** for building message flows, and learning **ServiceNow** for ITSM and workflow automation.  
-💡 I'm passionate about building clean, user-friendly mobile UIs automation, and system integration.
+<h1 align="center">Hi, I'm Abhishek Ghogare</h1>
+<p align="center">
+  <strong>Software Engineer @ Eidiko Systems Integrators</strong><br>
+  Building cross-platform apps, automating workflows, and integrating enterprise systems.
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧩 About Me
 
-### Mobile App Development  
-- **Flutter** (Dart)  
-- UI/UX Focused Development  
-- REST API Integration  
-- Firebase
-
-### Integration & Backend  
-- **IBM App Connect Enterprise (ACE / IIB)**  
-- **IBM MQ**  
-- **ESQL**, **Java**, **Oracle SQL**
-
-### Platforms & Tools  
-- **ServiceNow** (Client Scripts, Business Rules, Glide APIs, UI Policies, CMDB)  
-- **Linux (Ubuntu/CentOS)**  
-- **Git**, **VS Code**, **Postman**, **SOAP UI**, **MQ Explorer**, **ACE 12**
+- 🎓 Electronics & Telecommunication graduate from Savitribai Phule Pune University  
+- 💼 Currently working with **IBM App Connect Enterprise (ACE/IIB)** and **ServiceNow**  
+- 🧠 Passionate about clean UI/UX, automation, and enterprise integration  
+- 🌐 Portfolio: [abhishek-ghogare.vercel.app](https://abhishek-ghogare.vercel.app)
 
 ---
 
-## 📚 Currently Learning
+## ⚙️ Tech Stack
 
-- 📲 Advanced Flutter UI Animations, state management (Provider)  
-- 🧩 Complex flow design and security (SSL, ODBC, SOAP/REST) in **IBM ACE**  
-- 🔍 **CMDB** architecture, scripting, and integration in **ServiceNow**
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,oracle" height="30" />
+  <img src="https://img.shields.io/badge/ESQL-1B75BB?style=flat&logo=code&logoColor=white" height="25" />
+</p>
+
+### 🧩 Integration & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM%20ACE-052FAD?style=flat&logo=ibm&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/IBM%20MQ-000000?style=flat&logo=ibm&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ServiceNow-00A478?style=flat&logo=servicenow&logoColor=white" height="25"/>
+</p>
+
+### 🛠 Dev Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman" height="30" />
+  <img src="https://img.shields.io/badge/SOAP_UI-85EA2D?style=flat&logo=swagger&logoColor=black" height="25" />
+</p>
 
 ---
+
+## 🔭 Currently Exploring
+
+- 🧩 Complex integrations using SSL, SOAP/REST, ODBC in IBM ACE  
+- 🎨 Advanced Flutter UIs, animations, and Provider state management  
+- 🔍 ServiceNow CMDB architecture, scripting, and workflows  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:abhishekghogare45@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" height="25" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ghogareabhishek">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://abhishek-ghogare.vercel.app/">
+    <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" height="25" alt="Portfolio" alt="Portfolio"/>
+  </a>
+</p>
+
+
+---
+
+<!-- GitHub Stats (optional) -->
 <!--
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekghogare&show_icons=true&theme=radical)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekghogare&show_icons=true&theme=transparent)
 -->
-
-## 📫 Let's Connect
-
-- 📧 Email: [abhishekghogare45@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/ghogareabhishek](https://linkedin.com/in/ghogareabhishek)
-
-Thanks for visiting! 🚀
